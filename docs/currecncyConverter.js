@@ -16,7 +16,7 @@ function converter() {
   
   if (baseC !== "Empty" && convertTo !== "Empty")
   {var myHeaders = new Headers()
-  myHeaders.append("apikey", "n9QJ5qybhYzsn5lsI23CwuxR8QXVxj4u")
+  myHeaders.append("apikey", "7XZvGa27lbkTNSSqWMgV4rMofxAifcXv")
 
   var requestOptions = {
     method: 'GET',
@@ -93,7 +93,7 @@ function historyData(){
     let newHList
 
     var myHeaders = new Headers()
-    myHeaders.append("apikey", "n9QJ5qybhYzsn5lsI23CwuxR8QXVxj4u")
+    myHeaders.append("apikey", "7XZvGa27lbkTNSSqWMgV4rMofxAifcXv")
 
     var requestOptions = {
         method: 'GET',
